@@ -42,7 +42,7 @@
 ## ✔️ ERD
 
 ## ✔️ System Architecture
-
+![image](https://github.com/user-attachments/assets/ecaede0f-6962-4763-86c7-014e37fe23ff)
 ## 멘토님 질문 3가지
 
 ### Front-End
