@@ -37,7 +37,8 @@
   </tr>
 </table>
 
-## 두드림 소개
+## Swagger-URL
+[두드림 API 명세서](https://dodream.p-e.kr/swagger-ui/index.html#/)
 
 ## ✔️ ERD
 <img width="1011" alt="스크린샷 2025-05-01 오후 4 27 53" src="https://github.com/user-attachments/assets/d9b153fb-3b60-44f8-bbf9-03e924426b5c" />
