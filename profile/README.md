@@ -40,6 +40,8 @@
 ## 두드림 소개
 
 ## ✔️ ERD
+<img width="1011" alt="스크린샷 2025-05-01 오후 4 27 53" src="https://github.com/user-attachments/assets/d9b153fb-3b60-44f8-bbf9-03e924426b5c" />
+
 
 ## ✔️ System Architecture
 ![image](https://github.com/user-attachments/assets/ecaede0f-6962-4763-86c7-014e37fe23ff)
