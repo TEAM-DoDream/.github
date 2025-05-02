@@ -45,7 +45,7 @@
 
 
 ## ✔️ System Architecture
-![image](https://github.com/user-attachments/assets/0f801d95-d854-4609-bede-e66671a75eb0)
+![image](https://github.com/user-attachments/assets/ea4ea7c7-3b57-4814-af71-c6dab0dca424)
 
 ## 멘토님 질문 3가지
 
