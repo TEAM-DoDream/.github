@@ -41,8 +41,7 @@
 [두드림 API 명세서](https://dodream.p-e.kr/swagger-ui/index.html#/)
 
 ## ✔️ ERD
-<img width="1011" alt="스크린샷 2025-05-01 오후 4 27 53" src="https://github.com/user-attachments/assets/d9b153fb-3b60-44f8-bbf9-03e924426b5c" />
-
+![DoDreamErd](https://github.com/user-attachments/assets/14f9f875-d98a-4395-b778-7cdc344ff432)
 
 ## ✔️ System Architecture
 ![image](https://github.com/user-attachments/assets/72def8a0-6f4c-4ff6-8c10-d1e3205a2bde)
